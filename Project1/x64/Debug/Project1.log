@@ -1,0 +1,8 @@
+﻿  test.c
+D:\Users\86198\source\VSworkplace\test1\Project1\test.c(266,9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Users\86198\source\VSworkplace\test1\Project1\test.c(271,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Users\86198\source\VSworkplace\test1\Project1\test.c(275,42): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Users\86198\source\VSworkplace\test1\Project1\test.c(279,65): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Users\86198\source\VSworkplace\test1\Project1\test.c(283,88): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Users\86198\source\VSworkplace\test1\Project1\test.c(287,113): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Project1.vcxproj -> D:\Users\86198\source\VSworkplace\test1\x64\Debug\Project1.exe
